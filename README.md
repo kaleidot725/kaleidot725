@@ -1,4 +1,4 @@
-I'm an android developer.
+I'm an android developer.  
 I develop emomemo app for android. 
 
 # Qiita
