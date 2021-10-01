@@ -20,7 +20,8 @@
     - Kotlin
   - 業務経験はないが使える
     - Swift
-    - JavaScript    
+    - JavaScript   
+    - Dart 
 - Windows
   - WPF
   - ReactiveProperty
@@ -29,6 +30,8 @@
   - Couroutines
   - Flow
   - Android architecture components など
+- Flutter
+  - Riverpod
 
 # 業務経験
 
