@@ -6,7 +6,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/kaleidot725/followers.svg)](http://qiita.com/kaleidot725)
 
 昔は組み込み業界で組み込み機器や業務アプリケーションを作っていました。  
-今はWeb業界で Android アプリケーションの開発をしています。
+今は Android アプリケーションの開発をしています。
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleidot725&show_icons=true&theme=vue)
 
