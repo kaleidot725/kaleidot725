@@ -1,12 +1,13 @@
-# 自己紹介
-
-今は Android アプリケーションの開発をしています。
-
 [![](https://img.shields.io/static/v1?label=LAPRAS&message=Kaleidot725&color=blue)](https://lapras.com/public/N954N7T)
 [![](https://img.shields.io/static/v1?label=BLOG&message=KumacPaper&color=red)](https://kaleidot.net)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/kaleidot725/posts.svg)](http://qiita.com/kaleidot725)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaleidot725/contributions.svg)](http://qiita.com/kaleidot725)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/kaleidot725/followers.svg)](http://qiita.com/kaleidot725)
+
+# 自己紹介
+
+今は Android アプリケーションの開発をしています。
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleidot725&show_icons=true&theme=default)
 
