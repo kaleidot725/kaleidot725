@@ -3,15 +3,16 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/kaleidot725/posts.svg)](http://qiita.com/kaleidot725)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaleidot725/contributions.svg)](http://qiita.com/kaleidot725)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/kaleidot725/followers.svg)](http://qiita.com/kaleidot725)
+<a href="https://zenn.dev/kaleidot725/articles">
+  <img src="https://zenn.badge.nikaera.com/s/kaleidot725/articles?style=flat-square" alt="kaleidot725 articles" />
+</a>
 <a href="https://zenn.dev/kaleidot725">
   <img src="https://zenn.badge.nikaera.com/s/kaleidot725/likes?style=flat-square" alt="kaleidot725 likes" />
 </a>
 <a href="https://zenn.dev/kaleidot725">
   <img src="https://zenn.badge.nikaera.com/s/kaleidot725/followers?style=flat-square" alt="kaleidot725 followers" />
 </a>
-<a href="https://zenn.dev/kaleidot725/articles">
-  <img src="https://zenn.badge.nikaera.com/s/kaleidot725/articles?style=flat-square" alt="kaleidot725 articles" />
-</a>
+
   
 # 自己紹介
 
