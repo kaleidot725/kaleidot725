@@ -6,11 +6,11 @@
 <a href="https://zenn.dev/kaleidot725">
   <img src="https://zenn.badge.nikaera.com/s/kaleidot725/likes?style=flat-square" alt="kaleidot725 likes" />
 </a>
+<a href="https://zenn.dev/kaleidot725">
+  <img src="https://zenn.badge.nikaera.com/s/kaleidot725/followers?style=flat-square" alt="kaleidot725 followers" />
+</a>
 <a href="https://zenn.dev/kaleidot725/articles">
   <img src="https://zenn.badge.nikaera.com/s/kaleidot725/articles?style=flat-square" alt="kaleidot725 articles" />
-</a>
-<a href="https://zenn.dev/kaleidot725/followers">
-  <img src="https://zenn.badge.nikaera.com/s/kaleidot725/followers?style=flat-square" alt="kaleidot725 followers" />
 </a>
   
 # 自己紹介
