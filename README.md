@@ -1,9 +1,12 @@
 [![](https://img.shields.io/static/v1?label=LAPRAS&message=経歴等&color=blue)](https://lapras.com/public/N954N7T)
 [![](https://img.shields.io/static/v1?label=BLOG&message=KumacPaper&color=red)](https://kaleidot.net)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/kaleidot725/posts.svg)](http://qiita.com/kaleidot725)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kaleidot725/contributions.svg)](http://qiita.com/kaleidot725)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/kaleidot725/followers.svg)](http://qiita.com/kaleidot725)
-  
+[![Articles](https://badgen.org/img/qiita/koki_develop/articles?style=plastic)](https://qiita.com/koki_develop)
+[![Contributions](https://badgen.org/img/qiita/koki_develop/contributions?style=plastic)](https://qiita.com/koki_develop)
+[![Followers](https://badgen.org/img/qiita/koki_develop/followers?style=plastic)](https://qiita.com/koki_develop)
+[![Articles](https://badgen.org/img/zenn/kaleidot725/articles?style=plastic)](https://zenn.dev/kaleidot725)
+[![Likes](https://badgen.org/img/zenn/kaleidot725/likes?style=plastic)](https://zenn.dev/kaleidot725)
+[![Followers](https://badgen.org/img/zenn/kaleidot725/followers?style=plastic)](https://zenn.dev/kaleidot725)
+
 I'm android engineer.
 
 https://www.craft.do/s/gWWQZREOuM7Vxc
