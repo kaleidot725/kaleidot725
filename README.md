@@ -9,8 +9,6 @@
 
 I'm android engineer.
 
-https://www.craft.do/s/gWWQZREOuM7Vxc
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleidot725&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleidot725&&layout=compact)
