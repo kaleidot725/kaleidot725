@@ -1,5 +1,5 @@
 [![](https://img.shields.io/static/v1?label=LAPRAS&message=経歴等&color=blue)](https://lapras.com/public/N954N7T)
-[![](https://img.shields.io/static/v1?label=BLOG&message=KumacPaper&color=red)](https://kaleidot.net)
+[![](https://img.shields.io/static/v1?label=BLOG&message=KALEIDOT.NET&color=red)](https://kaleidot.net)
 [![Articles](https://badgen.org/img/qiita/kaleidot725/articles?style=plastic)](https://qiita.com/kaleidot725)
 [![Contributions](https://badgen.org/img/qiita/kaleidot725/contributions?style=plastic)](https://qiita.com/kaleidot725)
 [![Followers](https://badgen.org/img/qiita/kaleidot725/followers?style=plastic)](https://qiita.com/kaleidot725)
