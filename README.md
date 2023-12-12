@@ -6,5 +6,6 @@
 [![Articles](https://badgen.org/img/zenn/kaleidot725/articles?style=plastic)](https://zenn.dev/kaleidot725)
 [![Likes](https://badgen.org/img/zenn/kaleidot725/likes?style=plastic)](https://zenn.dev/kaleidot725)
 [![Followers](https://badgen.org/img/zenn/kaleidot725/followers?style=plastic)](https://zenn.dev/kaleidot725)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleidot725&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleidot725&&layout=compact)
