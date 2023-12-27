@@ -8,4 +8,4 @@
 [![Followers](https://badgen.org/img/zenn/kaleidot725/followers?style=plastic)](https://zenn.dev/kaleidot725)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleidot725&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleidot725&&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleidot725&&layout=compact&theme=dracula)
