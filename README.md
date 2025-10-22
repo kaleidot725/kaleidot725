@@ -6,5 +6,3 @@
 [![Articles](https://badgen.org/img/zenn/kaleidot725/articles?style=plastic)](https://zenn.dev/kaleidot725)
 [![Likes](https://badgen.org/img/zenn/kaleidot725/likes?style=plastic)](https://zenn.dev/kaleidot725)
 [![Followers](https://badgen.org/img/zenn/kaleidot725/followers?style=plastic)](https://zenn.dev/kaleidot725)
-
-![github-header-image (2)](https://github.com/kaleidot725/kaleidot725/assets/23740796/fe72e97b-bf28-4ac8-9943-3824c1e8ffa9)
